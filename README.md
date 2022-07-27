@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/_bitmentor_" target="blank"><img src="https://img.shields.io/twitter/follow/_bitmentor_?logo=twitter&style=for-the-badge" alt="_bitmentor_" /></a> </p>
 
-- 🔭 I’m currently working on [MEET-VERSE](https://github.com/kcchawla85/MeetVerse)
+- 🔭 I’m currently working on [APP-DEVELOPMENT]()
 
 - 🌱 I’m currently learning **Machine Learning, Data Structures and Data Analysis**
 
