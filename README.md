@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **kcchawla85@gmail.com**
   
-- Personal Site: https://kcchawla85.github.io/kunalsite/
+- Personal Site: https://kcchawla85.github.io/kunalpersonalsite/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
