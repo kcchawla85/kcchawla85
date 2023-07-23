@@ -9,7 +9,12 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/kcchawla85](https://github.com/kcchawla85)
 
-- 💬 Ask me about **PYTHON |JAVA | HTML | CSS | C++ | C | MACHINE LEARNING**
+- 💬 Ask me about
+*• Programming: C++, Python, Java, C, JavaScript, HTML5, CSS, Flutter*
+*• Libraries and frameworks: React, Node.js, Express.js, Bootstrap, JSON, jQuery, RESTful API*
+*• Database management: MySQL, PostgreSQL, MongoDB*
+*• Cloud Platform:Trailhead(Salesforce), AWS*
+*• Miscellaneous: WEKA, Gitlab, GitHub, Docker, phpmyadmin*, Unreal Engine-5, Unity*
 
 - 📫 How to reach me **kcchawla85@gmail.com**
   
