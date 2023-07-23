@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kunal Chawla</h1>
-<h3 align="center">A passionate ML DEVELOPER | FRONT-END DEVELOPER | SOFTWARE DEVELOPER</h3>
+<h3 align="center">A passionate ML DEVELOPER | FULL SRTACK SOFTWARE DEVELOPER</h3>
 
 <p align="left"> <a href="https://twitter.com/_bitmentor_" target="blank"><img src="https://img.shields.io/twitter/follow/_bitmentor_?logo=twitter&style=for-the-badge" alt="_bitmentor_" /></a> </p>
 
